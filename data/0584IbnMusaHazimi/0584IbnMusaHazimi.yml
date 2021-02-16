@@ -13,7 +13,7 @@
 30#AUTH#DIED###AH: 0584-JU1-22 (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
-80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+80#AUTH#BIBLIO###: https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A7%D8%B2%D9%85%D9%8A, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: a free running comment here; you can add as many
     lines as you see fit; the main goal of this comment section is to have a
     place to record valuable information, which is difficult to formalize
