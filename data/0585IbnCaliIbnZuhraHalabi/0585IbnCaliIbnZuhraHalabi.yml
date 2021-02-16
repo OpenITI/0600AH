@@ -5,12 +5,12 @@
 10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
 10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
 10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
-20#AUTH#BORN#####: URIs from Althurayya, comma separated
-20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#BORN#####: HALAB_371E361N_S
+20#AUTH#DIED#####: HALAB_371E361N_S
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
-30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
-30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#BORN###AH: 0511-RAM-XX (X+ for unknown)
+30#AUTH#DIED###AH: 0585-RAJ-XX (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
