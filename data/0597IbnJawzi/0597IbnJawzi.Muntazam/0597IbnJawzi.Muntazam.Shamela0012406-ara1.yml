@@ -5,7 +5,7 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1035773549
 80#VERS#LINKS####:
     https://archive.org/details/muntazim_tarikh_mlouk_oumm
-90#VERS#ANNOTATOR: Maroussia
+90#VERS#ANNOTATOR: Maroussia; Gowaart
 90#VERS#COMMENT##: Comment inserted in metadata was removed. two editor
     sections were added at the beginning and at the end (the latter includes
     fihris). the headers were left untouched. the first level header (with
@@ -18,5 +18,6 @@
     structure would require deeper reflection to assess whether a thrid
     level header would be meaningful to provide the text with a better
     structure.
+ Gowaart: tagged poetry, deleted footnote markers
 90#VERS#DATE#####: 2019-07-24
 90#VERS#ISSUES###: HEADERS, BIOGRAPHICAL-TAGS
