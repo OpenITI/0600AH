@@ -7,5 +7,7 @@
 90#VERS#ANNOTATOR: LeipzigTeam
 90#VERS#COMMENT##: The text has been tagged according to the old
     workflow; it needs to be vetted and missing information supplied.
+    NB: check lines of poetry that seem too short: line numbers 3423, 3424,
+    3425, 6426
 90#VERS#DATE#####: 2019-09-30
 90#VERS#ISSUES###: formalized issues, separated with commas

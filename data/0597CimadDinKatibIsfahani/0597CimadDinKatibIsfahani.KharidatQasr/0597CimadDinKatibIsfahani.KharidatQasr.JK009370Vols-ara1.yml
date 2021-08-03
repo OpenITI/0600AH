@@ -27,6 +27,32 @@
     further  investigation.  Some biographies are very lengthy and include
     subdivisions of poetry by rhyming letter, but I have not tagged these
     divisions to keep intact the biography.
-   NOTE OF THE REVIEWER (HRH): A few changes in the headers and their levelling made. Titles that were tagged incompletely corrected. Header tags for subsections of biographical entries replaced with #:~section:. Redundant tags removed. Editorial sections removed. The missing title at the beginning of vol 5 reported by the annotator typed, and the editorial parts in vol 13 removed. PARATEXT added.
+   NOTE OF THE REVIEWER (HRH): A few changes in the headers and their levelling
+    made. Titles that were tagged incompletely corrected. Header tags for
+    subsections of biographical entries replaced with #:~section:. Redundant tags
+    removed. Editorial sections removed. The missing title at the beginning of vol 5
+    reported by the annotator typed, and the editorial parts in vol 13 removed.
+    PARATEXT added.
+    NB: check lines of poetry that seem too short: line numbers 2599, 2601,
+    2652, 2660, 2952, 2953, 5470, 6258, 8284, 8309, 8312, 8340, 8341, 8342, 8344,
+    9949, 11488, 11848, 11950, 12561, 12821, 13319, 13467, 13779, 14563, 14966,
+    15701, 17060, 19042, 19137, 20490, 20843, 21371, 21373, 21374, 21376, 21377,
+    21625, 23634, 23635, 23636, 23637, 23638, 23639, 23640, 23642, 24095, 24340,
+    24422, 24939, 25516, 25527, 25971, 26934, 26997, 26998, 26999, 27000, 27001,
+    27002, 27003, 27004, 27005, 27006, 27007, 27008, 27009, 27010, 27011, 27012,
+    27013, 27014, 27015, 27016, 27017, 27020, 27021, 27022, 27023, 27024, 27025,
+    27026, 27027, 27028, 27029, 27030, 27031, 27032, 27033, 27034, 27035, 27036,
+    27037, 27038, 27039, 27040, 27041, 27044, 27045, 27046, 27047, 27048, 27246,
+    28772, 29037, 29325, 29453, 31785, 32903, 34797, 35887, 36760, 37996, 39611,
+    40432, 40437, 40793, 40832, 42229, 42435, 43028, 46486, 49827, 50020, 50780,
+    51049, 51557, 54031, 56383, 56907, 56915, 56916, 56930, 61031, 61763, 62695,
+    64638, 64950, 65604, 65652, 66762, 67034, 68190, 68282, 68283, 68284, 68285,
+    68289, 68293, 68840, 70133, 70904, 70913, 71898, 72333, 72334, 72343, 72894,
+    72895, 74155, 74156, 77349, 77362, 78387, 79090, 79125, 81558, 81572, 81822,
+    81980
+    NB: check lines of poetry that seem too long: line numbers 523, 5959, 7129,
+    25058, 33942, 43668, 44732, 46281, 48019, 50226, 50269, 50499, 51614, 51665,
+    52702, 56932, 57379, 61030, 61240, 62970, 64044, 64734, 65396, 71158, 72954,
+    76710, 76756, 80440, 81548
 90#VERS#DATE#####: 2019-11-05
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
