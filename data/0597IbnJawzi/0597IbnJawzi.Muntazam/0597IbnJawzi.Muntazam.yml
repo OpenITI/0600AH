@@ -1,4 +1,6 @@
 00#BOOK#URI######: 0597IbnJawzi.Muntazam
+00#VERS#CLENGTH##: 5337916
+00#VERS#LENGTH###: 1304621
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: al-Muntaẓam fī tārīḫ al-mulūk wa-l-umam
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
@@ -13,4 +15,7 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: JK001209 is not Dār ṣādir edition as mentioned in the METADATA. It is the same edition as Shamela0012406-ara1.mARkdown (i.e. Dār al-kutub, 1992). Sham30K0004592 and ShamAY0034611 are by Dār ṣādir, but both begin with the fifth volume and are incomplete versions.
+90#BOOK#COMMENT##: JK001209 is not Dār ṣādir edition as mentioned in the
+    METADATA. It is the same edition as Shamela0012406-ara1.mARkdown (i.e. Dār al-
+    kutub, 1992). Sham30K0004592 and ShamAY0034611 are by Dār ṣādir, but both begin
+    with the fifth volume and are incomplete versions.
