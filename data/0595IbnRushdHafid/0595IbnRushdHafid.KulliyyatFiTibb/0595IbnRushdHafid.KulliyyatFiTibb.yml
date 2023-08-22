@@ -1,6 +1,6 @@
-00#BOOK#URI######: 0595IbnRushdHafid.TalkhisCibara
-10#BOOK#GENRES###: DARE@Logic
-10#BOOK#TITLEA#AR: Talḫīṣ kitāb al-ʿibāraŧ
+00#BOOK#URI######: 0595IbnRushdHafid.KulliyyatFiTibb
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Kulliyyāt fī al-ṭibb
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
