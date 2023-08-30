@@ -7,6 +7,6 @@
     https://ketabpedia.com/تحميل/المختصر-من-كتاب-السياق-لتاريخ-نيسابور/
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: PV added structural annotation,
-    formatted poetry and and tagged editorial sections
+    formatted poetry and and removed editorial sections.
 90#VERS#DATE#####: 2022-03-14
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
