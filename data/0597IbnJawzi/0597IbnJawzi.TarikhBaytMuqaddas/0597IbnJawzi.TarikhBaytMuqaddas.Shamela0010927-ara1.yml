@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770491760
 80#VERS#LINKS####: PHYSICAL_OBJECT
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-10
-90#VERS#ISSUES###: PARATEXT
+90#VERS#ISSUES###: PARATEXT, PRIMARY_VERSION, CLEANED_VERSION

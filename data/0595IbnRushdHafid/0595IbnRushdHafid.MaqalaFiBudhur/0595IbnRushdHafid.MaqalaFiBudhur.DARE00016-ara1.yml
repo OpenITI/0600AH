@@ -5,13 +5,16 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://dare.uni-koeln.de/app/fulltexts/FT16
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+        use consistently)
 90#VERS#COMMENT##: Text digitized by the Digital Averroes Research
-    Environment project at the Thomas-Institute of the University of
-    Cologne. Averroes, Maqāla fī l-buḏūr wa-l-zurūʿ (مقالة في البذور
-    والزروع). Digital copy of Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī li-Abī
-    l-Walīd Ibn Rušd, ed. Ǧamāl al-Dīn al-ʿAlawī, Casablanca: Dār al-našr
-    al-maġribīya, 1983, pp. 258–263. Cologne: Digital Averroes Research
-    Environment (DARE), 2012. URI: dare.uni-koeln.de/app/fulltexts/FT16 .
+        Environment project at the Thomas-Institute of the University of
+        Cologne. Averroes, Maqāla fī l-buḏūr wa-l-zurūʿ (مقالة في البذور
+        والزروع). Digital copy of Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī li-Abī
+        l-Walīd Ibn Rušd, ed. Ǧamāl al-Dīn al-ʿAlawī, Casablanca: Dār al-našr
+        al-maġribīya, 1983, pp. 258–263. Cologne: Digital Averroes Research
+        Environment (DARE), 2012. URI: dare.uni-koeln.de/app/fulltexts/FT16 .
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

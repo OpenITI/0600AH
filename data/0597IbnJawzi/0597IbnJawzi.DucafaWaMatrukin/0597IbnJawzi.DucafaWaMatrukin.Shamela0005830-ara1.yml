@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://archive.org/details/Duafaa_Ibn_Jawzi
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Many of the names did not have numbers and automatic tags. I added the numbers and the tags manually. 2- No 409 in PageV01P119 and No 3339 in PageV03P123are missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-10
-90#VERS#ISSUES###: HTML_TAGS, PAGINATION, PARATEXT, MISSING_PARTS
+90#VERS#ISSUES###: HTML_TAGS, PAGINATION, PARATEXT, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION
