@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0581-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q4703267
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Author was born in Suhayl (present day Fuengirola) and died
     in Marrakesh but neither of these two places is part of Thurayya.

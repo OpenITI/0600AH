@@ -17,6 +17,7 @@
 30#AUTH#DIED###AH: 0597-RAM-01 (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q742319
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Data compiled from Arabic wikipedia and the reference
     article by Lutz-Richter Bernburg in Muslim Historians and the Franks in

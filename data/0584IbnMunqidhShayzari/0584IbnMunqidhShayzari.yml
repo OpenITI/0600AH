@@ -1,6 +1,6 @@
 00#AUTH#URI######: 0584IbnMunqidhShayzari
-10#AUTH#ISM####AR: Usāmaŧ   
-10#AUTH#KUNYA##AR: Abū al-Muẓaffar 
+10#AUTH#ISM####AR: Usāmaŧ
+10#AUTH#KUNYA##AR: Abū al-Muẓaffar
 10#AUTH#LAQAB##AR: Muʾayyad al-Dawlaŧ Maǧd al-Dīn
 10#AUTH#NASAB##AR: b. Muršid b. ʿAlī b. Muqlid b. Naṣr b. Munqiḏ
 10#AUTH#NISBA##AR: al-Kinānī al-Kalbī al-Šayzarī
@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0584-RAM-23 (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q451427
 80#AUTH#BIBLIO###:
     https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9_%D8%A8%D9%86_%D9%85%D9%86%D9%82%D8%B0,
     src@id, src@id, src@id, src@id
