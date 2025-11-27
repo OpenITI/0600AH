@@ -1,10 +1,10 @@
-00#VERS#CLENGTH##: 1544264
-00#VERS#LENGTH###: 367694
+00#VERS#CLENGTH##: 1554362
+00#VERS#LENGTH###: 369492
 00#VERS#URI######: 0597IbnJawzi.MinhajQasidin.Kraken220413202218-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1228080223
-80#VERS#COLLATED#:
+80#VERS#COLLATED#: 
 80#VERS#LINKS####: https://archive.org/details/WAQ110051
-90#VERS#ANNOTATOR:
+90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: OCRed through Kraken:
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
